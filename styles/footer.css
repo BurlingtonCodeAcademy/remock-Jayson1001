@@ -1,0 +1,112 @@
+/*--Footer Page CSS--*/
+#footer {
+    background-color: lightgray;
+}
+
+.footer-title {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.questions {
+    color: gray;
+}
+
+.get {
+    color: dimgray;
+}
+
+#footer-container-bottom {
+    display: flex;
+}
+
+.footer-left-column {
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 10px;
+}
+
+.footer-content {
+    width: 70%;
+}
+
+#name {
+    width: 47%;
+}
+
+#email {
+    width: 47%;
+}
+
+.message {
+    width: 99%;
+}
+
+.send-message-button {
+    background-color: orange;
+}
+
+.mail-img {
+    height: 13px;
+    width: 13px;
+}
+
+.footer-right-column {
+    width: 50%;
+    margin-left: 10px;
+}
+
+.footer-desc {
+    width: 70%;
+}
+
+.lower-right-contact-container {
+    display: flex;
+}
+
+.lower-right-contact-left {
+    padding-right: 20px;
+    width: 200px;
+}
+
+.home-img {
+    width: 20px;
+    height: 20px;
+}
+
+.phone-img {
+    width: 20px;
+    height: 20px;
+}
+
+.email-img {
+    width: 20px;
+    height: 20px;
+}
+
+.lower-right-contact-right {
+    width: 200px;
+    padding-left: 20px;
+}
+
+.twitter-img {
+    width: 20px;
+    height: 20px;
+}
+
+.insta-img {
+    width: 20px;
+    height: 20px;
+}
+
+.dribbble-img {
+    width: 20px;
+    height: 20px;
+}
+
+.facebook-img {
+    width: 20px;
+    height: 20px;
+}
